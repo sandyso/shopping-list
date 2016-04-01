@@ -8,3 +8,14 @@ body {
 button {
 	position: block;
 }
+
+.list li {
+	list-style-type: none;
+	border: 1px solid;
+	text-align: center;
+	border-radius: 20%;
+	border-width: 0px;
+	margin: 0 0 5px 0;
+	margin-left: 42%;
+	margin-right: 47%;
+}
